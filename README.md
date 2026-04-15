@@ -26,8 +26,8 @@ beta      1235    running
 
 ## 1. Team Information
 
-- Member 1: Praneeth P Shetty (SRN: PES2UG24CS902)
-- Member 2: Preethi T (SRN:PES2UG24CS900)
+- Member 1: Praneeth P Shetty (SRN: PES2UG24CS902).
+- Member 2: Preethi T (SRN:PES2UG24CS900).
 
 ---
 
